@@ -58,4 +58,4 @@ print('je mappelle',nom,prenom,',je suis',fonction)
 #2.4- on ajoute la variable age (elle est deja declaree dans la question 1.2 )
 print('je mappelle',nom,prenom,',je suis',fonction,'et jai',age,'ans')
 #2.5- en utulisant age, ecrire un programme qui affiche la phrase "dans cinq ans, jaurai 26 ans"
-print('dans cinq ans, jaurai', age+5, 'ans')
+print('dans cinq ans, jaurai '+ str(age+5)+'  ans')
